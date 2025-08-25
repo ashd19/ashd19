@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔗 Exploring **Ethereum & Solana** to build scalable dApps  
-- 🧑‍💻 Solving **NeetCode 250 + CSES** (Python) to crack interviews  
-- ⚙️ Experienced with **Java Spring Boot** for APIs  
-- 🎨 Frontend wizard with **React + Next.js + Tailwind**  
+- 🔗 **Ethereum & Solana** to build scalable dApps  
+- 🧑‍💻 
+- ⚙️ Experienced with **Java Spring Boot** for   
+- 🎨 Frontend  **React + Next.js + Tailwind**  
 - 🏋️ Passionate about **fitness & consistency** both in code and life  
 
 ---
@@ -43,14 +43,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashd19&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ashd19/ashd19/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-✨ *"The best way to predict the future is to build it."*  
+✨ *"0 or 1"*  
