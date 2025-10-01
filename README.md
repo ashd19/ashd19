@@ -3,6 +3,7 @@
 # 👋 Hi, I’m Ash.ts/x — Web3 Fullstack Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11&height=150&section=header&text=Ash.ts/x&fontSize=42&fontColor=fff&desc=Web3%20Fullstack%20Developer&descAlign=50&animation=twinkling" width="100%" alt="header"/>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&height=80&lines=Building+the+Future+with+Web3;Fullstack+%7C+System+Design+%7C+Next.js;Solana+%7C+Ethereum)](https://git.io/typing-svg)
 
@@ -123,35 +124,15 @@ Skill bars (visual quick-read)
 
 ---
 
-## 🎛️ Customization I Applied
-
-- Added animated header, typing SVG, and live view counter
-- Integrated GitHub-stats, streak and top-langs widgets
-- Added activity graph, trophies, and metrics dashboard
-- Included CI/action badge placeholders and repo pin preview
-- Built project table and skill summaries
-
-If you want me to replace placeholders with exact repo/action links, social handles, or GIFs, reply with those items and I'll update the README and open a PR that commits the changes.
-
----
-
 ## 🌐 Social & Contact
 
 <p align="center">
   <a href="https://ashtons-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ashtons--portfolio.vercel.app-00C2FF?style=for-the-badge&logo=vercel" alt="Portfolio"/></a>
   <a href="https://github.com/ashd19"><img src="https://img.shields.io/badge/GitHub-@ashd19-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://twitter.com/ash_dev"><img src="https://img.shields.io/badge/Twitter-@ash_dev-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ash-dev"><img src="https://img.shields.io/badge/LinkedIn-Ash-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/redemption190"><img src="https://img.shields.io/badge/Twitter-@redemption190-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Ash-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
----
-
-## ⚙️ How I can customize this for you (if you want me to edit your repo)
-- Add project cards for specific repos (send repo names)
-- Replace placeholder links (email, Twitter) with your real handles
-- Swap color themes (tokyonight, radical, default)
-- Add a GIF hero or short demo video (upload the image or link)
-- Add CI/now-building badges (link to Actions or deployments)
 
 If you want, I can make these changes and open a PR that updates README.md in your repository. Tell me:
 - Which repos to highlight (exact owner/repo)
