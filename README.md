@@ -1,96 +1,20 @@
 # Ashton Dsouza
 
-Backend Engineer focused on distributed systems, concurrency, networking, and infrastructure.
+Backend Engineer focused on Java, Distributed Systems, and Infrastructure.
 
-I enjoy building systems from first principles and understanding how things work under the hood—from TCP sockets and HTTP servers to asynchronous processing pipelines, Docker deployments, and cloud infrastructure.
+### Featured Work
 
-## What I'm Working On
+🚀 [Multithreaded Web Server](repo-link)
+Built a Java HTTP server from scratch using thread pools and virtual threads, improving throughput from ~650 req/s to ~4,500 req/s under load.
 
-* Building backend systems in Java
-* Exploring distributed systems and event-driven architectures
-* Infrastructure, Linux, Docker, and cloud platforms
-* Performance optimization and scalability
-* Open Source contributions
+⚡ [Async Audio Processing Pipeline](repo-link)
+Designed an event-driven audio ingestion system using RabbitMQ, reducing peak request latency from ~83s to ~15s while processing 1,500+ queued jobs.
 
-## Featured Projects
+🐳 [Infrastructure Migration](repo-link)
+Planned and executed production infrastructure migration across regions, covering Docker workloads, backups, DNS cutover, and rollback strategy.
 
-### Multithreaded Web Server
+🦀 [Shell](repo-link)
+Built a Unix-like shell in Rust supporting command parsing, process execution, and filesystem operations.
 
-A high-performance Java web server built from scratch, evolving from a sequential implementation to thread pools, virtual threads, and caching.
-
-**Highlights**
-
-* TCP socket programming
-* Custom HTTP parsing
-* Thread pool architecture
-* Java Virtual Threads
-* In-memory caching
-* Load testing and benchmarking
-
-### Async Audio Ingestion Pipeline
-
-An event-driven pipeline for processing audio files asynchronously.
-
-**Tech Stack**
-
-* Java / Spring Boot
-* RabbitMQ
-* PostgreSQL
-* MinIO
-* Python Workers
-* Docker
-
-**Features**
-
-* Asynchronous job processing
-* Queue-based architecture
-* Scalable worker model
-* Audio normalization and transcription pipeline
-
-### Shell
-
-A Unix-like shell implemented in Rust.
-
-**Highlights**
-
-* Command parsing
-* Process execution
-* File system interaction
-* Automated testing
-
-## Current Interests
-
-* Distributed Systems
-* Backend Architecture
-* High Performance Java
-* Infrastructure Engineering
-* Observability
-* Cloud Platforms
-* DevOps
-
-## Tech Stack
-
-**Languages**
-Java • Rust • Python • JavaScript • TypeScript
-
-**Backend**
-Spring Boot • Node.js • Express
-
-**Infrastructure**
-Docker • Linux • Jenkins • Traefik • Cloudflare
-
-**Databases**
-MySQL • PostgreSQL
-
-**Messaging**
-RabbitMQ
-
-## Connect
-
-🌐 https://ashtondsz.me
-
-💼 LinkedIn: linkedin.com/in/ashton-dsouza-7933862bb
-
----
-
-*"Build things. Measure them. Break them. Improve them."*
+🌐 ashtondsz.me
+💼 LinkedIn
