@@ -7,7 +7,7 @@ Backend Engineer focused on Java, Distributed Systems, and Infrastructure.
 🚀 [Multithreaded Web Server](https://github.com/ashd19/Multithreaded-Webserver)
 Built a Java HTTP server from scratch using thread pools and virtual threads, improving throughput from ~650 req/s to ~4,500 req/s under load.
 
-⚡ [Async Audio Processing Pipeline]((https://github.com/ashd19/Async-Audio-Ingestion-Pipeline))
+⚡ [Async Audio Processing Pipeline](https://github.com/ashd19/Async-Audio-Ingestion-Pipeline)
 Designed an event-driven audio ingestion system using RabbitMQ, reducing peak request latency from ~83s to ~15s while processing 1,500+ queued jobs.
 
 <!---
