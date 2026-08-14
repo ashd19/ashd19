@@ -15,8 +15,6 @@ Designed an event-driven audio ingestion system using RabbitMQ, reducing peak re
 Planned and executed production infrastructure migration across Projects, covering Docker workloads, backups, DNS cutover, and rollback strategy.
 --->
 
-🦀 [Shell](repo-link)
-Built a Unix-like shell in Rust supporting command parsing, process execution, and filesystem operations.
 
 🌐 [ashtondsz.me](https:ashtondsz.me)
 💼 [LinkedIn](https://www.linkedin.com/in/ashtondsz/)
